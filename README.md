@@ -1,3 +1,6 @@
+NYC Citibike Dashboard Performance Powered by Looker Studio
+This project is a part of the learning of Business Intelligence Analyst in Binar Bootcamp Academy
+
 WITH data as (SELECT tripduration,
 starttime,
 stoptime,
